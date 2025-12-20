@@ -20,6 +20,6 @@ The repository provides codes and sample data used in the paper 'Elite MBAs in t
 ### 2.4 (Line 163) Change the path to the folder "Import"
 ### 2.5 (Line 190) To determine the survival time in boards, we developed a Python script (see folder "Python")
 
-3. Python script
-The Python script calculates survival times. These are needed to construct the time dimension.
-See point 2.5 for further details.
+## 3. Python script
+### The Python script calculates survival times. These are needed to construct the time dimension.
+### See point 2.5 for further details.
