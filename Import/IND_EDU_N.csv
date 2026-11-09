@@ -1,0 +1,740 @@
+DirectorName,CompanyName,Qualification,FullTextDescription,DirectorID,CompanyID,AwardDate
+Raj Chakraborty,Massachusetts Institute of Technology (MIT),BS,,1874620,40436,
+Pam Williamson,Skidmore College,Bachelor's Degree,,1939410,61845,
+Cory Davis,Duke University,BA,,1932218,60547,20000101.0
+Doctor Reiner Stamm,Technische Universität Carolo-Wilhelmina zu Braunschweig (Technical University of Brunswick),PhD,,1909856,62021,19880101.0
+Iddo Rachlewski,Scrum Alliance Inc,Certified,,1917003,1261854,20130201.0
+Anthony Jarrin,Wharton School University of Pennsylvania,Certified,,1874505,64966,
+Keyvan Sadigh,Harvard University,Graduated,,1873317,63830,20040101.0
+Andi Funk,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1918744,54373,19930101.0
+Courtney Steinberg,American Institute of Certified Public Accountants (AICPA),CPA,,1926590,54373,
+Mike Woster,Texas A&M University,BS (cum laude),,1890004,62040,
+Doctor Ramesh Kashi,Harvard Medical School,Post Doctoral Studies,,1904352,63348,
+Chad Hoskins,Wharton School University of Pennsylvania,MBA,,1914326,64966,20060101.0
+Sarah Beshar,Magdalen College Oxford University,BCL,,1884326,43707,19840101.0
+Mike Auseré,University of Texas at Austin,BBA,,1878905,62742,
+Manuel Bronstein,Simon Bolivar University,BS,,1904070,566875,
+Jason Lichter,Harvard Law School,JD,,1932892,63035,20040101.0
+Mar'ia Adkisson,National Academy for Paralegal Studies Inc,Certificate,,1922705,2625664,19920101.0
+John Cappelletti,Santa Clara University,MBA,,1935377,61782,
+Sandra Rogers,University of Texas at Austin,Doctor of Jurisprudence,,1940040,62742,19910501.0
+Sendur Sellakumar,University of California San Diego (UCSD),BS,,1912418,79941,20010101.0
+Pete Mack,Cornell Hotel Society Cornell School of Hotel Administration,BS,,1933459,461536,
+Charlie McNeil,Colorado School of Mines (CSM),BSc,,1875053,60430,19710101.0
+Frank Pennisi,Opus College of Business University of St Thomas,Mini MBA Program,,1928902,666092,20090101.0
+Nick Hudson,University of Essex,BA,,1896165,62296,19890101.0
+Jim Patterson,Stanford University,Masters Degree,,1894865,61935,
+Wayne Wilkinson,Marymount University,MBA,,1924505,94922,20030101.0
+Lara Balazs,University of Washington,BA (magna cum laude),,1918978,62785,
+Tamara Bray,Purdue University,BSc,,1917740,61638,
+Adam Silver,University of Huddersfield,Studied,,1915764,51969,
+Jeff Peters,Purdue University,PhD,,1907770,61638,20150101.0
+Bob DeSantis,University at Buffalo Law School (SUNY Buffalo Law School),BS,,1870658,1196812,
+Major General Dave Scott,Squadron Officer School (SOS),Studied,,1876217,110031,19850101.0
+John Lynch,University of Southern California (USC),BA,,1886897,62673,19900101.0
+Doctor Richard Bakalar,Rice University,BA,,1942373,61692,19770101.0
+Roberto Munoz,Escuela Superior de Administración y Dirección de Empresas (ESADE),MBA,,1911547,73564,19930101.0
+Kurt Roinestad,Rutgers University Newark,PhD,,1919778,1896036,19930101.0
+Sanj Pai,University of Pennsylvania,BSE,,1925349,62579,
+Mary Emerton,University of California Santa Cruz (UCSC),Certified,,1904688,2361289,19980101.0
+David McQuade,Florida State University College of Business,Studied,,1916071,1548721,19840101.0
+Doctor Peter Khoury,Syracuse University,Bachelor's Degree,,1906871,61983,
+Beth Keck,Johns Hopkins University School for Advanced International Studies (SAIS),MA,,1920611,606498,19850101.0
+Jim Glover,University of North Georgia (UNG),BS,,1917520,2130345,19880101.0
+Mike Cavanaugh,Unknown Organisation,Certified,,1873964,0,
+Michael Fiorese,Old Dominion University,BS,,1917747,79828,20100101.0
+Mitch Cohen,Information Systems Audit and Control Association Inc (ISACA),Certified Information Security Manager (CISM),,1940469,622969,
+Patrick Moore,United States Naval Academy (USNA),Graduated,,1906485,377927,
+Glenn Johansen,Northeastern University,MBA,,1894455,61472,
+Nick Parrotta,Cox School of Business Southern Methodist University,MBA,,1888953,733102,19980101.0
+Ryan Gwillim,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1933406,54373,
+Scott Krog,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1917290,54373,
+Pat Noland,Kennesaw State University (KSU),MBA,,1933739,1374096,19980101.0
+Matt Wilkinson,University of Denver Daniels College of Business,MBA,,1927014,753221,
+Stephanie Fossan,Stanford University,BA,,1931390,61935,
+Burley Kawasaki,Pacific Lutheran University (PLU),BBA,,1896973,114017,19920101.0
+Stephanie Fitch,University of St Andrews,BS (Hons),,1896886,127602,
+Matt Holden,University of Cambridge,Master of Advanced Studies (MAS),,1888414,60268,20060101.0
+Jaganatha Pemmadi,International Institute of Information Technology (IIIT),MS,,1912595,877729,20140101.0
+Daryl Edmiston,Purdue University,MS,,1914290,61638,19930101.0
+Tom Cordiner,University of St Andrews,MA (Hons),,1890210,127602,19900101.0
+Karen Carter,Howard University,BS,,1913084,60889,19930101.0
+Jason Clague,Babson College,MBA,,1887566,60120,20050101.0
+Sanjay Beri,Cornell Law School,LLM,,1941121,44710,20020101.0
+Anish Aswani,University of California Berkeley,BS,,1899135,62215,19980101.0
+Dean Fullerton,George Washington University,Postgraduate Studies,,1912496,60749,
+Karen Carter,China Europe International Business School (CEIBS),Completed,,1913084,38195,
+Mike Drazin,University of Illinois Urbana-Champaign (UIUC),BS,,1884358,77782,19960101.0
+Miguel Gomez-Rodriguez,Escuela de Farmacia de la Universidad de Puerto Rico (School of Pharmacy of the University of Puerto Rico),Bachelor's Degree,,1916296,2683368,19870101.0
+Doctor John McConnell,University of Kansas,BA (Distinction),,1909322,80243,19750101.0
+Riad Hasan,Lafayette College,BS,,1897940,61118,19950101.0
+C Corrao,Temple University,BBA,,1912532,62035,19890101.0
+Christina Polischuk,Villanova University School of Law,JD,,1934340,466232,19800101.0
+Doctor Derrell Porter,University of California Los Angeles (UCLA),BS,,1894201,62218,19930101.0
+Shamit Grover,Claremont McKenna College,Graduated,,1913204,87047,
+Claire Fiddian-Green,Columbia Business School,MBA,,1922792,63118,20030101.0
+Sunil Madan,Gurukula Kangri Vishwavidyalaya,Masters Degree,,1924521,2691214,19980101.0
+Sandra Harris,Clemson University,Bachelor's Degree,,1887916,78370,19930101.0
+Doctor Diep Le,Stanford University School of Medicine,MD,,1942133,79154,
+Caroline Mandeville,Salve Regina University,MBA,,1942052,111107,20070101.0
+Sanu Desai,Stanford University Graduate School of Business,MBA,,1937695,67360,19950101.0
+Anil Gaur,Jamia Millia Islamia,BTech,,1893474,1230040,19920101.0
+Tom Duncan,Darla Moore School of Business University of South Carolina (USC),Master of International Business (MIB),,1917463,113782,19920101.0
+Richard Agnew,University of Liverpool,Bachelor's Degree,,1926152,62417,
+Don Webb,University of Oklahoma,BS,,1924867,62549,19970101.0
+Lisa Clyde,University of California Los Angeles (UCLA),BA,,1889017,62218,
+Brien O'Meara,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1868433,54373,
+Doctor Christoph Schulien,Universität des Saarlandes Saarbrücken (University of Saarland Saarbrücken),Dipl Ing,,1890686,42710,19860101.0
+Rachael Vegas,University of North Carolina Kenan Flagler Business School,MBA,,1895594,82925,20020101.0
+Ratul Mahajan,Indian Institute of Technology (IIT) Delhi,BTech,,1923945,87237,19990101.0
+Charlene Hampton,Society for Human Resource Management (SHRM),Certified,,1925731,116531,
+Kevin Brode,College of Wooster,BA,,1914521,60421,19840101.0
+Jacek Levernes,Institut Europeen d'Administration des Affaires (INSEAD) (European Institute of Business Administration),Executive Education Program,,1932288,60651,20000101.0
+Mike Webber,Chartered Institute for IT (The) (Formerly known as British Computer Society (BCS)),Chartered IT Professional,,1900465,36334,
+Doctor Barbara McGovern,Albert Einstein College of Medicine of Yeshiva University,MD,,1898720,41987,19880101.0
+Ernie Katai,University of Michigan,BA,,1887615,63187,19830101.0
+Shawn Kinnear,Brigham Young University Hawaii,Studied,,1885504,1514276,19890101.0
+Suresh Bhat,Haas School of Business University of California Berkeley,MBA,,1934893,757832,19980101.0
+Karl Jeppesen,Olin Business School Washington University (John M Olin School of Business),Masters Degree,,1869010,82506,
+Chris Reddy,State University of New York (SUNY),Bachelor's Degree,,1900741,61939,19860101.0
+Doctor Fan Fan,University of Southern California (USC),PhD,,1874924,62673,
+Ryan Michel,Wheaton College,BS,,1895211,78445,19960101.0
+Chris Donini,Samuel Curtis Johnson Graduate School of Management Cornell University (S C Johnson Graduate School of Management),MBA,,1910386,78597,20100501.0
+Dan Dormont,Yale University,BS,,1907873,62981,20010101.0
+Andrew Ong,University of British Columbia (UBC),BASc,,1902709,62203,19930101.0
+Elizabeth Bethoney,Bentley University (Bentley College prior to 10/2008),BS (cum laude),,1929799,60157,
+Marcus East,Scrum Alliance Inc,Certified ScrumMaster (CSM),,1883677,1261854,
+Paddy Finn,University of Southampton,PhD,,1918905,62672,19960101.0
+Ron D'Ercole,University of San Francisco,MBA,,1879832,62648,
+Oliver Claude,Stanford University Graduate School of Business,Executive Program,,1894685,67360,20110101.0
+Doctor Bill Carson,Case Western Reserve University School of Medicine,MD,,1883154,1006381,
+Kesa Yorozu,Willamette University College of Law,JD,,1882193,1191810,19970101.0
+Gawad Abaza,Unknown Organisation,MBA,,1915868,0,
+Nina Bankar,University of California San Diego (UCSD),BSc,,1872212,79941,20010101.0
+Shane Magoon,Leonard N Stern School of Business New York University,MBA,,1941563,42226,20090101.0
+Michael Risse,University of Wisconsin-Madison School of Business,BA (Hons),,1923067,487982,19870101.0
+Lisa Howze,Walsh College,MS,,1869288,79362,20040101.0
+Nipul Chokshi,Clifton High School,Studied,,1930343,1547666,
+Alex Stojanovic,Santa Clara University,Bachelor's Degree (cum laude),,1921067,61782,
+Seung Lim,Wharton School University of Pennsylvania,MBA,,1898190,64966,20120101.0
+Jeremy Young,Clarion University of Pennsylvania,MBA,,1918435,485201,20080101.0
+Ed Cope,University of Windsor,BSc,,1906777,62800,
+Renata Naoumov,Fundação Universidade Federal do Rio Grande (FURG),BS,,1905557,1295641,20030101.0
+Paul Martin,US Air Force Test Pilot School (USAFTPS) Edwards Air Force Base,Graduated,,1942757,583659,
+Liz Anderson,Sellinger School of Business and Management Loyola College,MBA,,1881717,875773,19820101.0
+Darren Snellgrove,Wharton School University of Pennsylvania,Leadership Program,,1896818,64966,
+Russ Havranek,Clemson University,MS,,1892143,78370,
+Doctor Cokey Nguyen,Novartis Institute for Biomedical Research Inc (NIBRI),Post Doctoral Fellowship,,1917736,70931,
+Cary Glay,Weatherhead School of Management Case Western Reserve University,MBA,,1876083,85307,20000101.0
+Doctor Praveen Soti,Gandhi Medical College,MD,,1932153,1223736,19990101.0
+Genevieve Roberts,Wellesley College,BA,,1885410,62904,19870101.0
+Lisa Massa,University of Illinois Urbana-Champaign (UIUC),Studied,,1904449,77782,19920101.0
+Byron Racki,University of Texas at Austin,MBA,,1938262,62742,20050101.0
+Jackie Schumacher,Hamilton College,BA,,1928977,60814,19860101.0
+Dave Rogers,Clarkson University,BS,,1932482,60383,19790101.0
+Joe DiPietro,Unknown Organisation,MA,,1941396,0,
+Shawn Lolling,University of Illinois Urbana-Champaign (UIUC),BS,,1908018,77782,20010101.0
+Rohini Pradeep,San Jose State University,MS,,1932449,61780,20030101.0
+Greg Smelker,Rose-Hulman Institute of Technology (RHIT),BS,,1939653,61714,20000101.0
+Doctor Joseph Monahan,State University of New York Buffalo (SUNYB),BS,,1926877,83168,19770101.0
+Ivan Batanov,Paul Merage School of Business University of California,MBA,,1932612,1147467,20040101.0
+Stephanie Fitch,Ealing College,Masters Degree,,1896886,550777,
+Lisa Selk,Kellogg School of Management Northwestern University,Executive Development Program,,1925547,77878,20150101.0
+Todd Caponi,Indiana University,BS,,1875129,60920,19930101.0
+Anthony Flynn,Kingston University (Formerly known as Kingston Polytechnic),MA,,1894923,61072,
+Randall Tucker,James Madison University,BA,,1874577,61006,20000101.0
+Amy Feller,Gabelli School of Business Fordham University,MBA,,1940923,2478128,19940101.0
+Mark Taborsky,CFA Institute (Association for Investment Management and Research prior to 2004),CFA,,1935084,594747,19970101.0
+Gary Whitelaw,Harvard Business School,MBA,,1918350,63013,
+Courtney Reynolds,University of Virginia,BA (Distinction),,1892897,62777,
+Kim Anderson,Central Michigan University,MBA,,1913781,60309,19980101.0
+Mustafa Shabib,Northwestern University,BS,,1893055,61494,20020101.0
+Anne Bentley,University of Richmond,BA,,1885101,62632,19890101.0
+Doctor Knut Niss,Children's Hospital Boston (CHB),Postdoctoral Fellow,,1913776,263682,20040101.0
+Doctor Richard Bakalar,American Board of Nuclear Medicine,Certified,,1942373,733268,20120901.0
+Ankur Varma,University of California Berkeley,MS,,1940123,62215,20010101.0
+Doctor Anamika Ghista,University of Washington School of Medicine,MD,,1920917,1293331,20010101.0
+Dominique Verhelle,Rady School of Management University of California San Diego,MBA,,1912072,1334285,20090101.0
+Pat Fenlon,Mitchell Hamline School of Law (William Mitchell College of Law prior to 12/2015),JD (summa Cum Laude),,1908640,135372,20080101.0
+Martin Attiq,Stanford University Graduate School of Business,MA,,1899148,67360,
+Michael Nichols,Virginia Polytechnic Institute and State University (Virginia Tech),BS,,1907978,110197,20040101.0
+Beau Titchkosky,University of Canberra,Graduated,,1926092,572719,
+Javier Gagliardo,Catholic University of Argentina,Licentiate,,1928280,915406,19930101.0
+Kate Jackson,United States Military Academy (USMA) West Point,BS,,1905449,62117,19930101.0
+Schimmer Tetrick,University of Nôtre Dame,Masters Degree,,1897933,62544,20050101.0
+Nader Salessi,University of Southern California (USC),Executive MBA,,1883506,62673,19970101.0
+Frank Asante-Kissi,Lawrence University,BA,,1928216,61137,19950101.0
+Gavin Poole,University of Cape Town,BCom,,1881834,42659,19950101.0
+Meeta Mathur,University of Massachusetts Lowell (UMass Lowell),Certified,,1878538,62459,20030101.0
+Leonard Livschitz,Polytechnic Institute in Kharkov,MS,,1938269,754502,19890101.0
+Brett Wahlin,International Information System Security Certification Consortium (ISC)² Inc,Information Systems Security Management Professional (ISSMP),,1892563,1241221,20040701.0
+Matt Larson,University of Illinois Urbana-Champaign (UIUC),Graduated,,1902563,77782,19950101.0
+Cynthia Tragge-Lakra,University of Michigan,MA,,1931409,63187,
+Aditya Bhandari,University of Michigan Ann Arbor,MS,,1884151,550078,20120101.0
+Jenny Coupe,Marketo Inc (Listed 05/2013),Certified,,1919946,1056168,20130101.0
+Mandy Killam,University of Nebraska at Omaha,MBA,,1891749,108137,20090101.0
+Carl Livadas,Massachusetts Institute of Technology (MIT),PhD,,1904372,40436,20030701.0
+Doctor Holly Krutka,University of Oklahoma,PhD,,1881762,62549,20070101.0
+Yantao Jia,Princeton University,BSEE (magna cum laude),,1887161,61632,19890101.0
+William Stack,Seton Hall University School of Law,JD,,1941095,464664,19740601.0
+André Williams,University of Stellenbosch Business School,BA (Hons),,1932145,1475872,
+Scott Schwalbach,University of California Davis,BS,,1918783,62216,
+Dan Silberman,West Virginia University (WVU),MA,,1904476,62917,
+Skip Kiil,University of Michigan,MBA,,1899407,63187,20100101.0
+Jason Mitchell,Missouri University of Science & Technology (University of Missouri - Rolla prior to 01/01/2008),BS,,1940828,1483741,20030101.0
+Doctor Roger Sidhu,Canadian Medical Association,Certified,,1935745,45779,
+Leila Garadaghi,University of Massachusetts Amherst (UMA),BBA,,1931275,62456,
+Chris Schraft,Center for Creative Leadership (CCL),Leadership Program,,1913350,42351,
+Daniela Retelny,Stanford University,PhD,,1905678,61935,20160101.0
+Devon Cushman,University of Richmond School of Law (Formerly known as T C Williams School of Law),JD,,1915208,1376684,20020101.0
+Doctor Mark Day,Cardiff University,PhD,,1888760,66948,20000101.0
+Nadim Ahmed,University College London (UCL),BSc,,1926637,62247,
+Doctor Raphael Clynes,Stony Brook University,PhD,,1901183,242912,19900101.0
+Gregory Haardt,École Nat. Sup. d'Electr. Electrotech de'Inf. d'Hydraulique de Toulouse (ENSEEIHT),MS,,1930341,60590,20010101.0
+Matthew Bonanno,Wharton School University of Pennsylvania,MBA,,1870420,64966,20070101.0
+Chris DeGroot,University of Texas,BA,,1892345,63189,
+Phil Mazzocco,Indiana University,Completed,,1940640,60920,19940101.0
+Ed Cluss Jr,Harvard Business School,MBA,,1909558,63013,
+Rich Adamonis,St Bonaventure University,Studied,,1907950,79974,19770101.0
+Ari Levine,University of Pennsylvania,BSE,,1932380,62579,20030101.0
+Doctor Donnie McGrath,Harvard TH Chan School of Public Health,Masters Degree,,1914908,2309294,20010101.0
+Jim Schug,Columbia Business School,Post Graduate Diploma,,1923087,63118,20140101.0
+Jon Hall,City University London (CUL),BSc (Hons),,1892935,1378256,
+Matt Kerbel,UCLA Anderson School of Management,MBA,,1915406,2460934,20110101.0
+Doctor Shin Fuse,Keio University,BEng,,1909931,61060,20010101.0
+Craig Skinner,Unknown Organisation,BE,,1914110,0,
+Kevin Senator,George L Graziadio School of Business and Management Pepperdine University,MBA,,1938585,467578,
+Leanne Huang,Columbia Business School,MBA,,1874564,63118,20080101.0
+Tim Smith,Olin Business School Washington University (John M Olin School of Business),MBA,,1917406,82506,20000101.0
+Sheryle Milligan,Eastern Michigan University,Studied,,1879203,82766,
+Leon Richardson,University of Maryland College Park,Degree,,1918112,62449,
+Martin Evans,Fuqua School of Business Duke University,Executive MBA,,1907714,730113,20100101.0
+Mothusi Pahl,University of California Santa Cruz (UCSC),BA,,1918545,2361289,20000101.0
+Jun Kamata,Kellogg School of Management Northwestern University,MBA,,1887386,77878,20080101.0
+Frederic Groussolles,ESME Sudria,BE,,1898651,1263497,19940101.0
+Doug Simpson,DeVry University,BS (magna Cum Laude),,1876357,272362,19960101.0
+Keith Bourgoin,Case Western Reserve University (CWRU),MSc,,1905257,60290,20060101.0
+Mark Taborsky,Booth School of Business University of Chicago,MBA (Beta Gamma Sigma),,1935084,1342262,19930101.0
+Mark Shilshtut,Stony Brook University,BS,,1928677,242912,19990101.0
+Brian Bowerfind,University of Redlands,MBA,,1927305,79746,20040901.0
+Naama Bloom,University of Wisconsin-Madison,BA,,1869469,751347,19940101.0
+Greg Brainerd,Virginia Polytechnic Institute and State University (Virginia Tech),BSBA,,1941369,110197,
+Erik Brown,Carnegie Mellon University,MS,,1903359,41519,19860101.0
+Christine Burke,Southeastern Oklahoma State University,BS,,1888508,575595,
+Reza Qorbani,Sheikh Bahai University,BS,,1904030,2676664,20030101.0
+Edward Goyder,University of Cambridge,MA,,1935515,60268,19740101.0
+Marcel Korst,Kellogg School of Management Northwestern University,Marketing Management Program,,1892649,77878,20110101.0
+Bill Glass,Texas Tech University,BS,,1903952,62046,19850101.0
+Doctor Dan Einhorn,Harvard Medical School,Fellow,,1917969,63348,19810101.0
+Indars A??uks,Stockholm School of Economics in Riga (SSE Riga),BSc,,1881166,1986693,20010101.0
+Jeff Balaguras,Indiana University Bloomington,BA,,1930904,1337103,19920101.0
+Raul Corella,Centro de Enseñanza Técnica y Superior (CETYS) University,Bachelor's Degree,,1943258,1193638,19880101.0
+Jack Vissicchio,Georgetown University,Graduated,,1874888,60750,19880101.0
+Bob Kruse,Gonzaga University,BA,,1912086,96167,19930101.0
+Doctor Gahl Berkooz,Cornell University,PhD,,1885596,60457,19920101.0
+Rick Ouellette,Franklin Pierce University,MBA,,1913669,1487636,
+Trevor Pugh,Sheffield Polytechnic,HND,,1911921,65397,19800101.0
+Ian Gresham,University of Maryland College Park,BS,,1876610,62449,20010101.0
+Gretchen Koback-Pursel,Fordham University,MBA,,1931266,60696,
+Yegneswaran Kumar,Institute of Chartered Accountants of India (ICAI),CA,,1894524,125427,
+Vicente Reynal,Massachusetts Institute of Technology (MIT),MS,,1912562,40436,19980101.0
+David Farrow,Association of Professional Engineers and Geoscientists of British Columbia (APEGBC),Professional Geoscientist,,1884668,622720,
+Aloysius Cheang,Information Systems Audit and Control Association Inc (ISACA),Certified Information Systems Auditor (CISA),,1899728,622969,20030101.0
+Grant Deken,Jacksonville University,Studied,,1919926,61002,20090101.0
+David Montgomery,College for Financial Planning,Chartered Retirement Plan Specialist (CRPS),,1916106,660920,
+Jim Linville,Marshall University (MU),Master of Environmental Management (MEM),,1907070,251472,
+Keith Laabs,University of North Carolina Chapel Hill,BS,,1940603,62533,
+Doctor Ryan LaFond,University of Wisconsin,BBA,,1934839,63062,20010101.0
+Andrew Boni,Boston College,BS,,1872378,60193,
+Marc Hollander,Florida Institute of Technology,Masters Degree,,1916638,79758,
+Jeff Simmons,Stanford University,MS,,1884444,61935,19850101.0
+Mike Fischer,Madonna University,BS,,1888823,1955709,19810101.0
+Tom Bain,Information Systems Audit and Control Association Inc (ISACA),Certified,,1942930,622969,
+Kim Scharf,Ursuline College,BA,,1891427,84232,20020101.0
+Susan Huang,American Institute of Certified Public Accountants (AICPA),CPA,,1922040,54373,
+Doctor Andy Biga,University of Nebraska,BA (summa cum laude),,1943509,62511,20020501.0
+Erard Gilles,Faculté de Médecine Necker-Enfants Malades,MD,,1917825,886382,
+Doug Gibson,Rice University,Studied,,1877996,61692,
+Christine Bragan,New York Institute of Technology,BA (summa cum laude),,1929836,61423,
+PK Dandapani,University of Wisconsin-Madison,MS,,1893091,751347,19990101.0
+Adrian Mendoza,University of Southern California (USC),Studied,,1895376,62673,19980101.0
+Tracey Sacco,Leonard N Stern School of Business New York University,MBA,,1914156,42226,20050101.0
+Jim Costello,Bernard M Baruch College City University of New York (CUNY),MBA,,1902973,81866,19910101.0
+Mike O'Neill,Thunderbird School of Global Management,MBA,,1894303,923424,
+Julie Robertson,Canadian Institute of Chartered Accountants (CICA),Chartered Accountant,,1879893,56019,
+Jamie Flinchbaugh,Massachusetts Institute of Technology (MIT) Sloan School of Management,Fellow,,1920509,63283,
+Brian Lorig,WP Carey School of Business Arizona State University (Arizona State University College of Business prior to 2003),BS,,1937903,485630,
+Yasmine Misuraca,Association of Certified Fraud Examiners (ACFE),Certified Fraud Examiner,,1893366,379372,
+Scot Gardner,University College Birmingham,MEng,,1892668,1875422,19890101.0
+Sunny Moore,McCombs School of Business University of Texas at Austin,MPA,,1914537,466303,
+Joseph Shaposhnik,UCLA Anderson School of Management,MBA,,1915434,2460934,
+Charlotte Blank,Harvard Business School,MBA,,1894198,63013,20100101.0
+John Cunningham,University of Alabama at Birmingham (UAB),DSc,,1893775,79203,20160101.0
+Doctor Akhtar Ashfaq,American Society of Nephrology,Certified,,1869192,40038,
+Cavan Yang,University of Chicago,MBA,,1897038,42092,
+Doctor Andre Goy,Institute Gustave-Roussy (IGR),Masters Degree,,1939431,897272,
+Doctor Praveen Soti,Stanford University Graduate School of Business,MBA,,1932153,67360,
+John Powderly,Southern Connecticut State University,Graduated,,1926153,665380,
+Scott Oppenheim,University of Rhode Island (URI),Graduated,,1895831,62631,19870101.0
+Chris Callaway,University of Arkansas,BS,,1888538,76399,19950101.0
+Dan Dowling,University of Maryland College Park,PhD,,1926917,62449,19960101.0
+Brad Rittler,Towson University,BS,,1911064,743199,19920101.0
+Andy Hinz,Kellogg School of Management Northwestern University,MBA,,1898094,77878,20120101.0
+C Jennings,Harvard Business School,MBA,,1868286,63013,20100101.0
+Kevin Bailey,Boston College,BA,,1925387,60193,
+M Price,University of Wales,HND,,1876388,63551,
+Peter Chen,Davis School of Law University of California,JD,,1899419,747619,19830101.0
+Trevor Schick,Purdue University Krannert School of Management,MBA,,1925186,79841,19990101.0
+Peter Russell-Smith,Monash University,MBA,,1932514,2027826,20080101.0
+Michelle Wu,Massachusetts Institute of Technology (MIT),MSc,,1874396,40436,20020101.0
+Keith Manbeck,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1892756,54373,
+Mike Cloonan,Darden School of Business University of Virginia (Formerly known as Colgate Darden School of Business University of Virginia),MBA,,1889096,53191,20010101.0
+David Montgomery,University of South Florida (USF),BS,,1916106,62670,20050101.0
+Leila Pourhashemi,University of California Berkeley,Bachelor's Degree,,1931902,62215,
+Bart Lauwers,Inspiring a Safe and Secure Cyber World Austin Chapter (ISC)²,Certified Information Systems Security Professional (CISSP),,1907868,2316956,20150428.0
+Nicole Joseph,Columbia University,Executive Master's Degree,,1940173,60434,20160101.0
+Jim Rogers,United States Military Academy (USMA) West Point,BS,,1919961,62117,19790101.0
+Major General Elizabeth Harrell,Institute for Defense and Business (IDB),Fellow,,1902064,923443,20090101.0
+Mike Wach,Hofstra University,MA,,1940117,60871,19760101.0
+Dave Forestell,University of Western Ontario,LLB,,1879863,62795,20060101.0
+Eddie Grobler,Unknown Organisation,MBA,,1897893,0,
+Winnie Xie,Cornell University,MBA,,1890983,60457,20130101.0
+Bruce Walters,Stanford University,BA,,1892206,61935,19790101.0
+Brynn Popa,Cleveland State University,MA,,1923739,60385,20090101.0
+Dipak Patel,Drexel University (Formerly known as Drexel Institute of Technology),BS,,1921071,60542,19960101.0
+Sandra Carbone,Stetson University College of Law,JD (Cum Laude),,1882549,1224986,20030101.0
+Greg Gore,CFA Institute (Formerly known as Association of Investment Management and Research (AIMR) (USA)),CFA,,1921253,260936,
+Craig Murray,Georgetown University Law Center,JD (magna Cum Laude),,1882262,79195,20090101.0
+Rodney Malcolm,Queen's University,BSc,,1924267,63329,19870101.0
+Greg Maxon,New York University (NYU),BA,,1897511,61424,20040101.0
+Samir Kapoor,Wharton School University of Pennsylvania,MBA,,1871200,64966,
+Deidre Paknad,Loyola Law School Loyola Marymount University (LMU),Studied,,1910316,78771,19840101.0
+Carlos Penzini-Granier,Universidad Metropolitana in Caracas,Bachelor's Degree,,1879137,863965,19990101.0
+Doctor Tim Harrington,San Jose State University,MA,,1941291,61780,19910101.0
+Harlan Toplitzky,Leonard N Stern School of Business New York University,MBA,,1871663,42226,20070101.0
+Sean Coar,Harvard Business School,MBA,,1917925,63013,20030101.0
+Mordy Pelleg,Drexel University (Formerly known as Drexel Institute of Technology),BSEE,,1890133,60542,
+Bill Cooling,Georgetown University,BA (Hons),,1890845,60750,20030101.0
+Catherine McLean,Chartered Professionals in Human Resources of Alberta (CPHRAB) (Formerly known as Human Resources Institute of Alberta (HRIA)),Certified,,1943446,1103656,20020101.0
+Robert Summerhayes,Massachusetts Institute of Technology (MIT),MS,,1915982,40436,19820101.0
+David Finn,Angelo State University,MA,,1939370,137347,19810101.0
+Egon Smola,Wirtschaftsuniversität Wien (Vienna University of Economics and Business Administration),BA,,1921894,643463,19950101.0
+George Burrell,Lehigh University,BS,,1896661,61143,
+Nick McMordie,Gonzaga University,BBA,,1908961,96167,20060101.0
+Iliana Rodriguez,Kennedy-Western University,BS,,1911813,583124,19980101.0
+Bob Lutz,University of California Santa Barbara (UCSB),BS,,1930062,62214,
+Jean-Paul Gomes De Laroche,Groupe ESC Toulouse (Toulouse Business School),MBA,,1914591,1510717,19990101.0
+Doctor Paul Changelian,University of Michigan Ann Arbor,BS,,1926880,550078,19780101.0
+Eli Tamanaha,Brigham Young University,BSc,,1923343,60212,20030101.0
+Doctor Hiran Vedam,Institut Europeen d'Administration des Affaires (INSEAD) (European Institute of Business Administration),MBA,,1942939,60651,20020101.0
+Ryan Thomas,Carnegie Mellon University,BA,,1917209,41519,
+Barry Friedman,Ohio State University (OSU),PhD,,1907973,61523,19770101.0
+Jeff Hindman,Duke University,BSME,,1884442,60547,20000101.0
+Charu Anchlia,Stanford University,MS,,1938881,61935,20010101.0
+Al Kolesar,Yale University,BA,,1875313,62981,19890101.0
+Tom Gentile,American Production and Inventory Control Society (APICS),Certified,,1891905,604047,
+Clayton Poppe,Massachusetts Institute of Technology (MIT),MS,,1941416,40436,20090101.0
+David Gardner,Investment Management Consultants Association Inc,Chartered Management Accountant,,1934778,580471,
+Todd Starkey,College for Financial Planning,Chartered Retirement Planning Counselor (CRPC),,1943595,660920,
+Doctor Nicole Faulkner,University of Massachusetts Medical School,PhD,,1882168,856212,
+Monica Enand,University of Portland,MBA,,1934042,378047,
+Mark Warden,McIntire School of Commerce University of Virginia,Degree,,1936278,667050,19890101.0
+Barbara Walker,University of California Los Angeles (UCLA),BA,,1894885,62218,
+Malgorzata Jaremko,American Board of Medical Genetics,Certified,,1905184,663875,
+Prashanth Shetty,Stanford University,MS,,1905050,61935,
+Doctor Harry West,Massachusetts Institute of Technology (MIT),PhD,,1906935,40436,19860101.0
+Doctor Helena Brett-Smith,Yale University,Bachelor's Degree,,1942409,62981,19780101.0
+Irina Tanenbaum,Rutgers University School of Business Camden,BS,,1886729,1879907,20020101.0
+David Brown,Minnesota State University (MSU) (Mankato State University prior to 09/1998),BS,,1870061,95342,
+Jim Dutey,Marshall University (MU),BBA,,1873300,251472,
+Professor Doctor Rob Austin,Swarthmore College,BA (Distinction),,1872196,61976,19840101.0
+Allen Dinh,San Jose State University,BS,,1896592,61780,
+Heather Dixon,State of Texas,Certified Public Accountant,,1939269,80714,
+Adelle Elia,Institute of Internal Auditors (IIA),Certified Internal Auditor,,1877230,1234877,
+Randy Lee,Bob Jones University,BS,,1912813,91897,19810101.0
+Kevin Peesker,University of Texas-Pan American (Ceased Trading 08/2015),BBA,,1935978,139482,
+Mike Hester,Cameron University,BS (Hons),,1891438,583073,
+Will Kinlaw,CFA Institute (Formerly known as Association of Investment Management and Research (AIMR) (USA)),Chartered Financial Analyst,,1871747,260936,
+Alex Scherbakovsky,Stanford University,MS (Distinction),,1880192,61935,
+Mike Moreau,Ithaca College,BS,,1920824,60992,19840101.0
+Tony Concolino,New York University Tandon School of Engineering,BS,,1916864,2550278,19820101.0
+Wim van Ooijen,Universiteit van Tilburg (Tilburg University),MS,,1941957,62059,19990101.0
+Raja Doddala,La Trobe University,Masters Degree,,1886289,743069,19970101.0
+Jackie Wynn,EMC CORP (De-listed 09/2016),Executive Program,,1901113,10497,20110101.0
+Laurie Schalow,Miami University Ohio,BS,,1923769,61276,19890101.0
+Paula Frey,Illinois State University,BS,,1875223,60905,19870101.0
+Major Sumit Garg,University of California Berkeley,MBA,,1917496,62215,20080101.0
+Bryan Fields,Wharton School University of Pennsylvania,MBA,,1929840,64966,19810101.0
+Pat Carpenter,University of Maryland College Park,BS,,1912211,62449,
+Mike McNelis,University of Chicago,Masters Degree,,1872859,42092,20030101.0
+Robert Fennon,Pennsylvania State University (Penn State University),BA,,1871332,61582,20020101.0
+Sarah Elkins,University of Wollongong,BCom,,1895237,593579,
+Doctor Andre Goy,Université Pierre et Marie Curie - Paris 6 (UPMC) (University of Pierre and Marie Curie - Paris 6),Masters Degree,,1939431,64535,
+Bob Crissman,University of Southern California (USC),BS,,1938927,62673,
+Jim Nickolas,University of Illinois Urbana-Champaign (UIUC),BS,,1906672,77782,19940101.0
+Dan Smith,Massachusetts Institute of Technology (MIT) Sloan School of Management,Executive MBA,,1871705,63283,19950101.0
+Brian Lorig,Santa Clara University,MBA,,1937903,61782,
+Chris Freer,Clark University,MBA,,1899079,106702,
+Paul Chae,Duke University,BS,,1916678,60547,19870101.0
+Peter Greenberger,London School of Economics (LSE) (London School of Economics and Political Science),MSc (Distinction),,1889763,38522,20020101.0
+Doctor Preston Keller,Olin Business School Washington University (John M Olin School of Business),MBA,,1891183,82506,
+Ajay Muppuri,Uttar Pradesh Technical University,Bachelor's Degree,,1913154,1095525,20070101.0
+Ashley Fidler,School of Journalism and Mass Communication University of Colorado at Boulder,BA (magna cum laude),,1911869,1610635,
+Benoit Marchant,Polytech Clermont-Ferrand,MS,,1931668,2291585,19940101.0
+Rachael Sklamberg,University of Illinois Urbana-Champaign (UIUC),BA,,1880211,77782,19910101.0
+Jeff Clevenger,Unknown Organisation,PEng,,1893601,0,
+Michael Wood,University of California Berkeley,BS (summa Cum Laude),,1877139,62215,
+Jerry Tobey,Utah State University,MBA,,1899426,80596,19780101.0
+Kenny Bement,Institute of Management Accountants (IMA) (USA),Certified Management Accountant,,1893726,40224,
+Jeff Gill,California State University Chico,BS,,1889721,595177,
+Doug Ricket,Stanford University Graduate School of Business,MBA,,1908857,67360,20140101.0
+Jim Hampe,Bowdoin College,BA,,1879525,60198,19980101.0
+Allan Coye,Georgia Institute of Technology (GIT),BS,,1886369,60751,
+Pete Crowe,Indiana University Kelley School of Business,BBA,,1916121,79674,
+Sarah Foss,Ohio University,Masters Degree (cum laude),,1897869,61524,19960101.0
+Dan Dunham,University of South Dakota,BA (summa cum laude),,1903129,83247,19740101.0
+Daniel Paillé,Université du Québec à Montréal (UQAM),MA,,1892736,592717,19760101.0
+Joe Thomas,Vanderbilt University,BS,,1935474,62843,19960101.0
+Jeff Cavros,University of California Berkeley,BA,,1908993,62215,19870101.0
+Eli Gross,Wharton School University of Pennsylvania,BS,,1886426,64966,19900101.0
+James Kim,University of Southern California Marshall School of Business,MBA,,1938430,1260970,20040101.0
+Doctor Mary Hagenson,Iowa State University,PhD,,1918805,1246304,19800101.0
+Cynthia Tragge-Lakra,University of Michigan,BA,,1931409,63187,
+Manish Kohli,University of Delhi,Bachelor's Degree,,1898853,243736,
+Isaac Arias,Leonard N Stern School of Business New York University,MBA,,1917206,42226,19990101.0
+Aaron Packles,Wharton School University of Pennsylvania,MBA,,1886402,64966,
+Mary Nixon,Gordon Ford College of Business Western Kentucky University,Graduated,,1872159,1357858,
+Brian Ferguson,Bowling Green State University,BS,,1921394,60200,19930101.0
+Erika Lee,Boston College,BS,,1898692,60193,19900101.0
+Rajan Krishnan,Indian Institute of Foreign Trade (IIFT),Post Graduate Diploma,,1895608,581123,19920101.0
+Mark Lipscomb,Vanderbilt University,BS,,1933657,62843,19940101.0
+Lisa Howze,Stephen M Ross School of Business University of Michigan,BBA,,1869288,747221,19950101.0
+Chris Levendos,New York University (NYU),Masters Degree,,1893282,61424,19970101.0
+Aanand Radia,Governor's Academy (Formerly known as Governor Dummer Academy),Graduated,,1926057,1636096,20030101.0
+Howard Horn,Wharton School University of Pennsylvania,MBA,,1886749,64966,20040101.0
+Andries Marx,Universiteit van Stellenbosch (University of Stellenbosch),Bachelor's Degree,,1912238,62685,19970101.0
+Kevin Byrnes,Parks College,BA,,1919982,636919,19750101.0
+Maria Blase,Southern Illinois University Edwardsville,MBA,,1897261,1100292,19920101.0
+Chris Banguis,Purdue University,Bachelor's Degree,,1936769,61638,19870101.0
+Sachin Wadhwa,Rotman School of Management University of Toronto (Joseph L Rotman School of Management),MBA,,1918952,1931003,20090101.0
+Doctor Fan Fan,University of Science and Technology of China (USTC),Bachelor's Degree,,1874924,464534,
+Frank Pennisi,GE Appliances (GEA) Inc,Certified Six Sigma Black Belt (CSSBB),,1928902,76477,19980501.0
+Oliver Sharp,University of California Berkeley,PhD,,1922703,62215,19940101.0
+Alex Ramin,Boston University School of Management,MBA,,1933750,591811,
+Tom Linnell,Northeastern University,Studied,,1885384,61472,
+Matt Cooper,Seattle Pacific University,BA (summa cum laude),,1881760,248072,19990101.0
+Joel Torrance,University of Chicago,MBA,,1891857,42092,
+Oni Chakravartti,Stanford University Graduate School of Business,Executive Marketing Program,,1904692,67360,20040101.0
+Doctor Leigh Zawel,State University of New Jersey Rutgers (Rutgers University),BS,,1929908,100431,
+Milan Kofol,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1927510,54373,
+Doctor Albert Leung,University of Iowa,PhD,,1870199,62375,19890101.0
+Doctor Michael Jolly,University of Texas at Austin,PharmD,,1871868,62742,19830101.0
+D Linhardt,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1896899,54373,19880101.0
+Dana Stringer,Middlebury College,BA,,1879954,61284,20010101.0
+Susie Scher,Middlebury College,BA (Cum Laude),,1894440,61284,19860101.0
+Darin Dugan,University of Wisconsin-Madison,BS,,1904959,751347,19910101.0
+John Clendening,University of Southern California (USC),BA,,1886905,62673,19850101.0
+Tom Lorimor,Case Western Reserve University (CWRU),MS,,1907931,60290,
+John Pirone,Institute of Chartered Financial Analysts (ICFA) (USA),Chartered Financial Analyst,,1934862,41274,
+Lisa Dalfonso,State University of New York Buffalo (SUNYB),MA,,1873488,83168,19940101.0
+Wally Wade,University of Michigan,MSME,,1917128,63187,19640101.0
+John Adcock,Texas Tech University,BS,,1910743,62046,19930101.0
+Craig Maitz,Temple University,BS,,1943049,62035,
+Dan McGowan,Rutgers University Newark,MBA,,1908042,1896036,20070101.0
+Rick McManigal,Saint Leo University,BA,,1911788,129457,19990101.0
+Linda Moran,Global Reporting Initiative (GRI),Certified,,1901488,76316,
+Matt DeBergalis,Massachusetts Institute of Technology (MIT),BS,,1892452,40436,
+Roopa Unnikrishnan,University College Oxford University,MPhil,,1888954,63222,19980101.0
+Allison Reid,Bryant University,Degree,,1905658,813619,19870101.0
+Yura Barabash,Sevastopol National Technical University,BA,,1936603,1921121,
+Steve Strayer,University of Akron,Graduated,,1904710,62134,19850101.0
+Pete Wassell,USA John F Kennedy Special Warfare Center & School (USAJFKSWCS),Graduated,,1891783,1645787,
+Doctor Michael Pucci,University of Connecticut,BS,,1887548,62265,
+Matt Anestis,Harvard Business School,MBA (High Distinction),,1914103,63013,
+Edi Abbott,University of Vermont,Masters Degree,,1878412,62771,19760101.0
+Ron D'Ercole,University of California Berkeley,BS,,1879832,62215,
+Doctor Jeniffer Hu,Peking University,BS,,1870285,78186,
+Gavin Stone,University of KwaZulu-Natal,BSEE,,1930086,955887,19950101.0
+Elon Boms,Yale School of Management,MBA (Distinction),,1919773,63607,20070101.0
+Sarah Sanger,UCLA Anderson School of Management,MBA,,1940800,2460934,20090101.0
+Alex Wu,University of Virginia,BS,,1931842,62777,20070101.0
+Ross Niebergall,University of Regina,BSc,,1925759,460315,
+Doctor S Conroy,University of California Berkeley,PhD,,1903751,62215,19940101.0
+Courtney Condon,Indiana University,BA,,1930654,60920,19970101.0
+Paul Nezi,Wharton School University of Pennsylvania,MBA,,1901405,64966,
+Erik Brown,Carnegie Mellon University,BS,,1903359,41519,19840101.0
+Liz Lempres,Dartmouth College,AB (cum laude),,1881708,60488,19830101.0
+Amy McCormick,University of Illinois Urbana-Champaign (UIUC),BS,,1911901,77782,19950101.0
+Richard Marritt,Brock University,BBA,,1889050,564613,19910101.0
+Brian Wood,Miami University Ohio,BS,,1925680,61276,19890101.0
+Mark Johnson,University of Texas at Austin,BA,,1922450,62742,19870101.0
+Woods Moore,Yale University,MPH,,1917296,62981,19890101.0
+Chris Levendos,Stevens Institute of Technology (SIT),MS,,1893282,61960,20040101.0
+Bea Pezino,Santa Clara University,MBA,,1893286,61782,
+Andy Waldrop,Colorado State University,BFA (Bachelors of Fine Arts Program),,1900305,60431,20050501.0
+Mohan Sadashiva,Columbia Business School,MBA,,1894649,63118,20050101.0
+Chris Pedregal,Stanford University,BS,,1913976,61935,20070101.0
+Steve Sigal,Georgetown University,BSBA (magna cum laude),,1933864,60750,
+Michael O'Laughlin,Clarkson University,BA,,1873652,60383,
+Kristin Carney,Clark University,MBA,,1932728,106702,
+Doctor Russell Garlick,University of Massachusetts Lowell (UMass Lowell),BS,,1921513,62459,19760101.0
+Paul Janelle,Webster University Geneva,MBA,,1882456,1266303,19920101.0
+Robert Atencio,University of Texas at Austin,MBA,,1885753,62742,19890101.0
+Joe Zmitrovich,Pennsylvania State University (Penn State University),MBA,,1899440,61582,
+Chris Haynes,Loyola University Maryland,MBA,,1882886,1714053,19910101.0
+John Stallworth,Alabama A&M University,BS,,1926560,625124,
+Major General Bruce Scott,Harvard College,Senior Executive Program,,1891433,63125,
+Marc Feghali,Northeastern Illinois University,MBA,,1890035,80809,
+Shadix Cochran,Texas A&M University,BS,,1906255,62040,19900101.0
+Tom Lutter,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1893326,54373,
+Kyle Stern,Wabash College,BA,,1939765,62874,19930101.0
+Matt Latino,State University of New York College Oneonta,BS,,1888481,647124,20080101.0
+Sarah Sheehy,Santa Clara University,BS,,1917642,61782,20000101.0
+Jacek Levernes,Norges Handelshøyskole (Norwegian School of Economics and Business Administration) (NHH),MSc,,1932288,61498,19960101.0
+Chris McMahon,University of Tulsa,BS,,1868177,89471,
+Helena Wang,Parsons School of Design,AAS,,1934283,80058,20131201.0
+Greg Bybee,Stanford Graduate School of Education,MA,,1924315,2292870,20130101.0
+Jorge Margain,Instituto Tecnologico Autonomo de Mexico (ITAM),Bachelor's Degree,,1942601,89742,20010101.0
+Chris Abboud,University of Pennsylvania,BAS (Bachelor of Arts and Science),,1922172,62579,
+Brandon Faulkner,University of South Florida (USF),BS (summa Cum Laude),,1877364,62670,20040101.0
+Marcel Korst,Radboud Universiteit Nijmegen (Katholieke Universiteit Nijmegen prior to 08/2004) (Radboud University Nijmegen),Masters Degree,,1892649,62527,19990101.0
+Doctor Ping Pan,Columbia University,PhD,,1870234,60434,
+Ron LaPierre,Claremont Graduate University,MBA,,1870303,78767,
+Larry Franco,IESE Business School Universidad de Navarra (Instituto de Estudios Superiores de la Empresa),Graduated,,1941981,63391,20110101.0
+Chetan Ahuja,Indian Institute of Technology,Degree,,1900737,64581,
+Joe Megibow,Cornell University,BS,,1878146,60457,19910101.0
+Jason Shen,Binghamton University,MS,,1897549,61944,19930101.0
+Brandon Faulkner,University of Florida Levin College of Law,JD (magna Cum Laude),,1877364,583366,20080101.0
+Doctor Geetha Murali,University of North Carolina Chapel Hill,MS,,1912654,62533,20000101.0
+Doug Kaspar,Northern Illinois University,Bachelor's Degree,,1879150,61475,19920101.0
+Aloysius Cheang,National University of Singapore (The),BSc (Hons),,1899728,61399,19990101.0
+Joe DiPietro,Unknown Organisation,Masters Degree,,1941396,0,
+Commander Terry Lewis,Queensborough Community College,AS Degree (Associate of Science),,1871974,110526,19900101.0
+Juan Suarez,University of North Carolina Kenan Flagler Business School,MBA,,1898922,82925,20060101.0
+Tom Chi,Cornell University,BS,,1927691,60457,
+Maryellen McQuade,Georgetown University,MA,,1876525,60750,19980101.0
+James Fung,Richard Ivey School of Business University of Western Ontario (Ivey Business School),MBA,,1886830,485046,
+Steve Sigal,Fuqua School of Business Duke University,Advanced Management Program,,1933864,730113,19900101.0
+Bharat Vats,University of Pittsburgh,MBA,,1910903,62593,20090101.0
+Jan Poczobutt,University of Nôtre Dame,BS,,1887329,62544,19830101.0
+Debby Gentzen,Stanford University Graduate School of Business,MBA,,1889021,67360,19950101.0
+Chris Jones,Houston Baptist University,MBA,,1893497,260392,
+Bob Korabik,DePaul University,MS,,1940887,60499,
+Doctor John Maxwell,Johns Hopkins University,PhD,,1901098,61026,20020101.0
+Caroline Bibb,International Association for Six Sigma Certification (IASSC),Six Sigma Black Belt (SSBB),,1929638,2044588,
+Michael Smith,Christian Brothers University,Bachelor's Degree,,1939480,91852,19870101.0
+Chris Moser,Hamilton College,MA,,1880190,60814,
+Bill Lee,California State University (CSU),MBA,,1883060,60252,19820101.0
+Karen Edwards,American Institute of Certified Public Accountants (AICPA),Certified Public Accountant,,1931089,54373,
+Michael Hilton,Rollins College,Bachelor's Degree,,1903787,61712,19830101.0
+Linda Moran,National Association of Realtors (NAR),Seller Representative Specialist (SRS),,1901488,108037,
+Gregg Behrens,Iowa State University,BS,,1918808,1246304,19740101.0
+Dan McLaughlin,Seton Hall University,BS,,1900812,61818,19830101.0
+Doctor Marty Burke,Massachusetts Institute of Technology (MIT),MD,,1901018,40436,20050101.0
+Ben Hom,University of Illinois (UIC),BS,,1877542,62367,19991201.0
+Frank Deptola,College of Business and Economics Lehigh University,Graduated,,1916164,932369,
+Ashok Ganesan,PSG College of Technology,BE,,1935889,1051351,19970101.0
+Jenny Dearborn,Stanford University,Master of Education,,1930294,61935,19930101.0
+Matthew Griffin,University of Texas at Austin,MS,,1898813,62742,
+Tristan Boutros,Scrum Alliance Inc,Certified,,1929483,1261854,
+Ben Morens,University of Phoenix,MBA,,1929678,94081,20080101.0
+Roy Seto,Massachusetts Institute of Technology (MIT),MS,,1935184,40436,19940101.0
+Kat Kwiatkowski,Indiana University Purdue University Indianapolis (IUPUI),MPH,,1888831,60922,20050101.0
+Beth Carlson,Connecticut College,MS,,1906933,97616,19920101.0
+Javonté Anyabwelé,Florida A&M University,BS,,1873793,60685,
+Alan Ji,University of Toronto,MS,,1910850,62752,
+Peter Johnson,University of Utah,BS,,1885312,62764,20060101.0
+Ken Watkinson,Northeastern Illinois University,BS,,1890109,80809,19970101.0
+Bo Yi,Columbia Business School,MBA (Hons),,1941200,63118,20070601.0
+Jason Reed,University of Denver College of Law,JD,,1897228,77283,19960501.0
+Ellen Tunoa,San Jose State University,BA,,1916722,61780,20030101.0
+Michael Graff,University of Idaho,BS,,1933166,62364,
+Brandon Muirhead,Wharton School University of Pennsylvania,MBA (Hons),,1892947,64966,20160101.0
+Doctor Max Rehman,University of Idaho,Masters Degree,,1935590,62364,
+Luiz Renha,Pontifícia Universidade Católica do Rio de Janeiro,Degree,,1874301,1040434,
+Lt. Gen. Pat O'Reilly,Salve Regina University,Studied,,1918513,111107,
+Dick Sullivan,Roger Williams University,BS,,1897923,70893,
+Lloyd Walker,Art Center College of Design,BS,,1890050,534633,19840101.0
+Matthew Bonanno,Georgetown University,BA,,1870420,60750,20010101.0
+Colonel Tom Henricks,American Society for Quality (ASQ) (Formerly known as American Society for Quality Control),Six Sigma Black Belt (SSBB),,1884545,126596,
+Bill Hazelton,State University of New Jersey Rutgers (Rutgers University),MA,,1914088,100431,19960101.0
+Ashley Crabtree,University of North Carolina Chapel Hill,Bachelor's Degree,,1879764,62533,
+Doctor Mike Kolodziej,Washington University St Louis,Graduated,,1920926,82206,
+Robert Gervasi,Federal Emergency Management Agency (FEMA),Certified,,1927021,97067,20130101.0
+Victor Branch,College of William & Mary,BA,,1885381,60420,19840101.0
+Laura Karet,Amherst College,BA,,1893219,60055,19900101.0
+Kim Rhodes,University of Pennsylvania,BA (Cum Laude),,1913218,62579,19860101.0
+Mike Smith,San Diego State University (SDSU),Graduated,,1926059,61775,
+Val Ruttenberg,University of Pennsylvania Law School,JD,,1918314,74077,19870101.0
+Shayan Zadeh,University of Maryland College Park,MS,,1886969,62449,20020101.0
+Bill Mulholland II,USC Gould School of Law (Formerly known as University of Southern California Law School),JD,,1932457,1106974,19980101.0
+Steve Wilkinson,Sam Houston State University,Graduated,,1933638,80768,20060101.0
+Diane Artman,Baldwin Wallace University (Baldwin-Wallace College prior to 07/2012),MBA,,1937811,60122,19870101.0
+Leigh Emery,Columbia University,Post Baccalaureate Degree,,1919371,60434,20150101.0
+Tom Hickey,University of Strathclyde,MBA (Distinction),,1918755,62688,20080101.0
+Barbara Delaney,Financial Industry Regulatory Authority (FINRA),Certified Behavioral Finance Analyst (CBFA),,1916149,955132,
+Lisa Saline,Normandale Community College (NCC),RN (Registered Nurse),,1878595,1356635,19870101.0
+Thomas Etheridge,Northeastern University,BS,,1918353,61472,19900101.0
+Clinton Musil,Harvard Business School,MBA,,1926213,63013,20100101.0
+Roy Seto,Massachusetts Institute of Technology (MIT),BS,,1935184,40436,19930101.0
+Meera Murthy,Cooper Union for the Advancement of Science and Art,BS,,1880233,135987,
+Charlotte Blank,Emory University,BS,,1894198,60627,20050101.0
+Dan Clare,INCAE Business School,Executive Education Program,,1868848,2501974,20140101.0
+Adam Holyk,University of Guelph,BA,,1874310,93712,20000101.0
+Steven Grossman,CISSPS.Com Inc,Certified Information Systems Security Professional (CISSP),,1907845,857313,
+Barry Goldstein,Harvard Business School,Advanced Management Program,,1874703,63013,
+David Pitchforth,University of Huddersfield,Ordinary National Certificate (ONC),,1915219,51969,19840101.0
+Andy Dillon,University of Nôtre Dame,BBA,,1897710,62544,19840101.0
+Doctor Marty Burke,National Institutes of Health (NIH),Fellow,,1901018,119377,20050101.0
+Pete Hunt,Cornell University,MEng,,1894992,60457,20100101.0
+Jess Hansen,CFA Institute (Formerly known as Association of Investment Management and Research (AIMR) (USA)),Chartered Financial Analyst,,1888768,260936,
+Richard Hudson,Brunel University,BEng (Hons),,1888956,60225,19900101.0
+Brianna DeMike,Project Management Institute Inc (PMI),Project Management Professional,,1882550,489712,
+Jerry D'Alessio,New Jersey Institute of Technology (NJIT),PhD,,1912877,61413,20160101.0
+Kevin Grotke,Harvard Business School,Certified,,1907595,63013,20070101.0
+Andy Tryba,University of Illinois (UIC),BSc,,1892190,62367,20000101.0
+Charlie Brown,George Washington University,BA,,1931635,60749,19860101.0
+Ann Weiss,University of California San Diego (UCSD),BA,,1931345,79941,19930101.0
+Lindsay Guion,Harvard University,Postgraduate Degree,,1932200,63830,20080101.0
+Paul Nadjarian,Harvard Business School,MBA,,1876237,63013,20000101.0
+Analisa Balares,Canadian International Development Agency,Certified,,1900659,664438,
+Randy Chesley,Colorado Technical University,BS,,1927711,82085,19960101.0
+Peter Taft,George Washington University,MA,,1883049,60749,
+Sebastian Siethoff,Thunderbird School of Global Management,MBA,,1926251,923424,19980101.0
+Nuri Dagdeviren,Massachusetts Institute of Technology (MIT),PhD,,1913308,40436,19850101.0
+Doctor Rohan De Rozario,Grantham Research Institute on Climate Change and the Environment London School of Economics and Political Science (LSE),MSc,,1904497,2029618,
+Sean Coar,Harvard University,BA,,1917925,63830,19970101.0
+Cristian Gheorghe,CFA Institute (Association for Investment Management and Research prior to 2004),Chartered Financial Analyst,,1888284,594747,20070101.0
+David Golod,Purdue University,BS,,1912073,61638,
+Ben Webster,University of Richmond,BA,,1890269,62632,19940101.0
+Sarah Sheehy,University of California Los Angeles (UCLA),Masters Degree,,1917642,62218,20050101.0
+Brian Bonifant,Chartered Life Underwriter (CLU),Chartered Life Underwriter,,1900519,97657,
+Jim Haigh,Radford University,BS,,1924488,641765,19900101.0
+Ben Rishwain,California State University (CSU),BS,,1913274,60252,20000101.0
+Fern Thomas,State University of New Jersey Rutgers (Rutgers University),MBA,,1877773,100431,
+Pram Ram,University of California Los Angeles (UCLA),PhD,,1871985,62218,19930101.0
+Stephanie Franklin,Western Kentucky University,BA (magna cum laude),,1931399,83922,
+Tony Barrett,University of Oklahoma,BS,,1892447,62549,
+Walter Mccormack,Kellogg School of Management Northwestern University,MBA,,1869604,77878,19960101.0
+Alex Forrest-Hay,University of the West of England,National Higher Diploma,,1887285,62792,
+Patty Brewer,University of California Berkeley,BA,,1921913,62215,
+Tracey Sacco,Boston College,BS,,1914156,60193,19990101.0
+Bill Rabl,American Institute for Chartered Property Casualty Underwriters (AICPCU),Associate in Risk Management (ARM),,1914086,44574,
+Sherri Bealkowski,Georgia Institute of Technology (GIT),Bachelor's Degree,,1929835,60751,
+Leah Hoyer,University of California Los Angeles (UCLA),MFA,,1917193,62218,
+Al-Waleed Hamdan,Marquette University,MBA,,1920297,61231,20030101.0
+Jordan Vargas,Pratt Institute,BSc,,1897237,128147,
+Gilad De Vries,Bar-Ilan University Ramat Gan,BA,,1904655,60127,19990101.0
+Marjorie De La Cruz,University of Pennsylvania,BA,,1932981,62579,19930101.0
+Malgorzata Jaremko,Capella University,MBA,,1905184,79413,20170101.0
+Jeanie Kelley,Arizona State University,BSc,,1926853,60074,20000101.0
+Judy Gilbert,Kenyon College,BA (magna cum laude),,1897403,44795,19910101.0
+Greg McCrickard,CFA Institute (Formerly known as Association of Investment Management and Research (AIMR) (USA)),Chartered Financial Analyst,,1926833,260936,
+Igor Borojevic,University of Zagreb,Graduated,,1894928,911322,
+Shundrawn Thomas,Florida A&M University,BS,,1917866,60685,19950101.0
+Kurt Huelsman,University of Cincinnati,BS,,1914585,62243,
+Paul Buchheit,Case Western Reserve University (CWRU),BS,,1872285,60290,
+Rick Crotty,Carnegie Mellon University,BS,,1928168,41519,19930101.0
+Jacob Aikin,Santa Clara University School of Law,JD,,1923567,741476,20060101.0
+Shyam Desirazu,State University of New York Buffalo (SUNYB),MS,,1942888,83168,
+Craig Cardella,University of Connecticut School of Business,MBA,,1875045,64937,19870101.0
+Shelly O'Byrne,American Bankers Association (ABA),Certified Trust and Financial Advisor (CTFA),,1918489,79015,
+Anish Aswani,UCLA Anderson School of Management,MBA,,1899135,2460934,20050101.0
+Brett Wahlin,Defense Language Institute,Graduated,,1892563,1014762,19890101.0
+Simon Hodges,Virginia Commonwealth University,Masters Degree,,1920425,62862,19850101.0
+Michael Wee,University of California Berkeley,BA,,1916706,62215,20140101.0
+Mark Brady,Cisco Inc,Certified,,1932081,1584450,
+Carl Pierlioni,New York Bankers Association (NYBA),Graduated,,1912840,82382,
+James McHugh,Villanova University,MBA,,1909801,62858,
+Justin Anderson,Kingston University (Formerly known as Kingston Polytechnic),BSc,,1913530,61072,19930101.0
+Greg McCrickard,Tuck School of Business at Dartmouth (Amos Tuck School of Business Administration),MBA,,1926833,632975,19860101.0
+Andy Hinz,Institute of Chartered Financial Analysts (ICFA) (USA),Chartered Financial Analyst,,1898094,41274,
+Silvio Angius,Libera Università Internazionale degli Studi Sociali (Luiss Guido Carli University),Degree,,1894148,38791,
+PG Gopalan,McCombs School of Business University of Texas at Austin,MBA,,1926336,466303,
+Pam Snyder,Purdue University Krannert School of Management,BS,,1908378,79841,19780101.0
+Greg Coladonato,Wharton School University of Pennsylvania,MBA,,1904695,64966,20050101.0
+Alex Volkovitsky,Carnegie Mellon University,BS,,1932734,41519,20090101.0
+Amit Bansal,Kirori Mal College,Degree,,1879871,1262548,19950101.0
+Jennifer Leonard,Boston University,BA (magna cum laude),,1902622,60195,19940101.0
+Shannon O'Callaghan,Boston College,BA,,1903354,60193,19930101.0
+Meredith Kendall,Stanford University,MA,,1907371,61935,20060101.0
+Steve Carlson,University of Illinois Urbana-Champaign (UIUC),BA,,1923262,77782,19910101.0
+Walter Cotumaccio,Chartered Institute of Management Accountants (USA),Certified,,1882845,2439178,
+Anthony Morelli,Massachusetts Institute of Technology (MIT),BS,,1931024,40436,20120101.0
+Doctor Eleanor Morrison,University of Waterloo,BASc,,1895748,62786,19930101.0
+Preston Thomas,Wharton School University of Pennsylvania,MBA,,1939345,64966,20150101.0
+Marc Zander,Loughborough University,Graduated,,1874808,64445,19900101.0
+Erik Severinghaus,TechStars Chicag (Formerly known as Excelerate Labs LLC),Graduated,,1877326,1711793,
+Vish Saoji,Sant Gadge Baba Amravati University,Bachelor's Degree,,1923777,1296618,
+Katie Mehnert,Jesse H Jones Graduate School of Business Rice University,Executive Program,,1917474,134857,20090101.0
+Rachael Vegas,Tufts University,BA,,1895594,62097,19970101.0
+Doctor Rajesh Rao,Veermata Jijabai Technological Institute (Formerly known as Victoria Jubilee Technical Institute),BE,,1914693,1100836,19900101.0
+Ruchika Singhal,Franklin & Marshall College,BA,,1906190,60710,19990101.0
+Susie Scher,Columbia Business School,MBA (Hons),,1894440,63118,19910101.0
+Duane Still,Kennesaw State University (KSU),Graduated,,1913856,1374096,
+Doctor Amanda Kousinioris,University of Victoria,BA,,1902491,62774,19990101.0
+Dave Drach,School of Journalism and Mass Communication University of Colorado at Boulder,BS,,1902693,1610635,19850101.0
+Eric Evans,George Washington University,Masters Degree,,1871184,60749,
+Derek Sasthav,Ohio State University (OSU),BS,,1880325,61523,20170101.0
+Michael Kuo,University of Washington,Certificate,,1936578,62785,20030101.0
+Doctor Yuecel Karabulut,Universität Dortmund (University of Dortmund),PhD,,1878944,64508,20020101.0
+Jolen Anderson,Northwestern University Pritzker School of Law,JD,,1939039,638744,20030101.0
+Chet Namboodri,General Electric Capital Corp (GE Capital Corp),Six Sigma Master Black Belt,,1904164,12985,20020101.0
+Matt Bartelme,International Society of Arboriculture (ISA),Certified,,1879364,2406855,20131101.0
+Rich Mutell,Defense Language Institute,Graduated,,1902857,1014762,
+Jeff Antonelli,University of South Carolina,BA,,1895802,62667,19980101.0
+Kurt Schansinger,Georgetown University,BS,,1935043,60750,19820101.0
+Doctor Meghan O'Sullivan,Oxford University,Masters Degree,,1942130,61561,
+Alexi Maltas,Harvard Law School,JD (Cum Laude),,1929445,63035,20030101.0
+Matt McInnis,Columbia Business School,MBA,,1877706,63118,20140101.0
+Paul McCarthy,Center for Latino Latin American and Caribbean Studies (CELAC) University at Albany SUNY,Graduated,,1875538,1500052,19940101.0
+Khee Lee,University of the Sciences in Philadelphia,BS,,1869169,625592,19950101.0
+Candi Castleberry-Singleton,Stanford University,Executive Human Resource Programme,,1908109,61935,20040101.0
+Joe Ruggiero,Cornell Law School,JD,,1896822,44710,
+Rick Brugge,Southern Methodist University,BA (Cum Laude),,1870082,61882,19920101.0
+Alex Ramin,Project Management Institute Inc (PMI),Project Management Professional,,1933750,489712,20161218.0
+Sai Huda,Unknown Organisation,Certified Regulatory Compliance Manager,,1896835,0,
+Mike Bailey,Elizabethtown College,BS,,1935025,81254,19890101.0
+James Orsillo,Brandeis University International Business School,MS,,1885061,1244700,20080101.0
+Chris Mullaney,Rutgers University New Brunswick,Graduated,,1914185,2419095,19930101.0
+Ché Wijesinghe,London South Bank University,BE (Hons),,1910845,383355,19940101.0
+Horvath Jason,Colorado State University,BS,,1936924,60431,19970101.0
+David Lucas,Project Management Institute Inc (PMI),Project Management Professional,,1869102,489712,
+Stef Maragna,University of Queensland,BEcon,,1905588,90682,19940101.0
+Jeff Maddock,University of Memphis (UoM),MBA,,1918985,97372,
+Doctor Lindsay Miller,University of California Berkeley,PhD,,1918544,62215,20120101.0
+David Hannigan,University of Pittsburgh,BA,,1938998,62593,19950101.0
+Danny Leon,University of Southern California (USC),BS (Hons),,1898203,62673,19810101.0
+Pam Axberg,St Catherine University,BA,,1920303,1622311,19850101.0
+Jeff Gatto,Syracuse University,MSEE,,1937983,61983,
+Matt Snyder,Indiana University Bloomington,MS,,1873299,1337103,20100101.0
+Kelly O'Leary,University of Akron,BS,,1909031,62134,20010101.0
+Orion Parrott,Northeastern University,MS,,1876312,61472,20050101.0
+Dave Winenger,Booth School of Business University of Chicago,Degree,,1893389,1342262,19930101.0
+Tom Carter,University of Alberta,BComm,,1876868,62142,19850101.0
+Sam Gadodia,University of Mumbai (University of Bombay prior to 09/1996),Bachelor's Degree,,1869292,76151,
+Allison Nance,University of Arizona (UOA),BS,,1902389,62155,19920101.0
+Esther-Mireya Tejeda,Instituto Internacional en España,Completed,,1885347,2479583,20000101.0
+Doctor Si Shen,University of California Los Angeles (UCLA),PhD,,1868978,62218,19910101.0
+Karen Diefendorf,Lincoln Christian University,BA,,1875476,2005483,19750101.0
+Joe Cawley Jr,Old Dominion University,BS,,1909413,79828,
+Lou Paglia,Massachusetts Institute of Technology (MIT) Sloan School of Management,MBA,,1911015,63283,
+Kristy Fercho,University of Southern California (USC),BS,,1920837,62673,
+Barbara Deradorian,Fairleigh Dickinson University,BS,,1893127,60671,19810101.0
+Malgorzata Jaremko,Wroclaw Medical University,PhD,,1905184,1283185,20070101.0
+Christophe Dominiak,Université de Rouen (University of Rouen),Associate Degree,,1936694,834013,
+Clayton Poppe,Duke University,BSE,,1941416,60547,20010101.0
+Ken Mace,Roger Williams University,BA,,1921664,70893,19930101.0
+Steve Gross,University of Rhode Island (URI),BA,,1942925,62631,19890101.0
+Mark Palmer,University of Virginia,MA,,1920564,62777,
+Doctor Elissa Lee,Stanford University,MA,,1903692,61935,
+Marilyn Oliva,Rutgers University Newark,MBA,,1886670,1896036,
+Arnaud Bonzom,Stanford University,Certified,,1883448,61935,
+Bill Keough,University of Houston,MS,,1933990,62360,
+Alex Hollywood,Destination Marketing Association International,Certified Destination Management Executive (CDME),,1887182,737064,
+Colonel Tom Henricks,TEXTRON INC,Executive Leadership Program,,1884545,30529,
+Leel Peesapati,King's College London University of London,Post Graduate Diploma (Hons),,1899708,40903,20070101.0
+Steve Hayes,University of New South Wales,BSc (Hons),,1940782,62524,19840101.0
+Sobhan Khani,University of Tehran,Bachelor's Degree,,1881686,634721,20100101.0
+Mike McGeehan,Marquette University,BSEE,,1940864,61231,19870101.0
+Ken Markus,Wharton School University of Pennsylvania,BS,,1926488,64966,19960101.0
